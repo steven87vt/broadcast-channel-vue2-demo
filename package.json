@@ -1,8 +1,8 @@
 {
-  "name": "broadcast-channel-jest-stuck-on-exit",
-  "description": "Reproduction Test",
+  "name": "broadcast-channel-vue2-demo",
+  "description": "Test App With Jest Tests",
   "author": "steven87vt",
-  "private": true,
+  "private": false,
   "jest": {
     "verbose": true,
     "modulePaths": [
