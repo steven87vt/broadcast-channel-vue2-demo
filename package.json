@@ -48,7 +48,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "~7.2.5",
-    "@babel/runtime-corejs2": "7.3.1",
+    "@babel/runtime-corejs2": "7.26.10",
     "broadcast-channel": "~2.1.9",
     "core-js": "^2.5.7",
     "css-loader": "~2.1.0",
